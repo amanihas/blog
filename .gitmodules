@@ -1,0 +1,7 @@
+[submodule "amanihas/public"]
+	path = amanihas/public
+	url = git@github.com:amanihas/amanihas.github.io.git
+	branch = main
+[submodule "amanihas/themes/lightbi-hugo"]
+	path = amanihas/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
