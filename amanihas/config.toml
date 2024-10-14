@@ -1,4 +1,13 @@
 baseURL = 'http://amanihas.github.io/'
 title        = "amanihas"
 languageCode = "en-us"
-theme        = "lightbi-hugo"
+theme = "hugo-theme-red-rose"
+
+
+[params]
+amani = "/img/author-pic.jpg"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

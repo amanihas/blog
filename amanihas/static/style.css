@@ -1,0 +1,52 @@
+body {
+	font-family: sans-serif ;
+	background: whitesmoke ;
+	color: black ;
+}
+
+main {
+	max-width: 800px ;
+	margin: auto ;
+	color:black ;
+}
+
+img {
+	display: block; /* Make the image a block element to use margin auto */
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%; /* Set the maximum width of the image */
+    height: auto; /* Maintain the aspect ratio */
+    max-height: 80vh; /* Limit the image height to 80% of the viewport height */
+}
+
+header h1 {
+	text-align: center ;
+	color: black;
+}
+
+footer {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
+}
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+}
