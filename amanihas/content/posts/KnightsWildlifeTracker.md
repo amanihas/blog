@@ -26,4 +26,4 @@ We learned how crucial it is to stay flexible during the development process and
 
 Looking ahead, we plan to enhance the application by integrating machine learning algorithms for species identification based on user-uploaded images. We also aim to add community engagement features to foster interaction among users.
 
-[View out DevPost](https://devpost.com/software/knights-wildlife-tracker)
+[View our DevPost](https://devpost.com/software/knights-wildlife-tracker)
