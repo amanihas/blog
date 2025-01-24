@@ -5,3 +5,7 @@
 [submodule "amanihas/themes/hugo-theme-red-rose"]
 	path = amanihas/themes/hugo-theme-red-rose
 	url = https://github.com/httpsecure/hugo-theme-red-rose.git
+[submodule "amanihas.github.io"]
+	path = amanihas.github.io
+	url = https://github.com/amanihas/amanihas.github.io
+	branch = main
